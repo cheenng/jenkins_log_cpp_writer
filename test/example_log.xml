@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="2" name="Testsuite_name" tests="4" time="0">
+    <testcase classname="example_" name="test" time="NA">
+        <failure message="Test failed" type="AssertionError">
+            <![CDATA[test fails]]>
+</failure>
+    </testcase>
+    <testcase classname="example_" name="test" time="NA">
+        <failure message="Test failed" type="AssertionError">
+            <![CDATA[test fails again]]>
+</failure>
+    </testcase>
+    <testcase classname="example_" name="test" time="NA" />
+</testsuite>
